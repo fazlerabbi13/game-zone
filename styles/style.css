@@ -338,4 +338,16 @@
     .paragraph-small-two{
         text-align: center;
     }
+    /* vedio container */
+    .vedio-container{
+        flex-direction: column;
+        width: 100%;
+        margin-top: 500px;
+    }
+    .vedio-container-heading{
+        margin-top: 60px;
+    }
+    .vedio-container-paragraph{
+        margin-top: 10px;
+    }
 }
